@@ -1,0 +1,6 @@
+nba.mp4
+
+runs/detect/predict3
+
+training/*
+!training/basketball_training_yolo_v5.ipynb
