@@ -1,6 +1,6 @@
-nba.mp4
+*.mp4
 
-runs/detect/predict3
+*.avi
 
 training/*
 !training/basketball_training_yolo_v5.ipynb
