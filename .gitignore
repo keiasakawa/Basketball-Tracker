@@ -2,5 +2,7 @@
 
 *.avi
 
+env
+
 training/*
 !training/basketball_training_yolo_v5.ipynb
